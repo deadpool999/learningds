@@ -6,6 +6,8 @@ def printMultiple(x):
     
 printMultiple(5);
 
+
+
 def printMultiples(x):
   list = []
   for i in range(1, x  + 1):
